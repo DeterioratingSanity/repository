@@ -24,6 +24,7 @@
 			<set name="type" addition="longsword">Weapon</set>
 			<set name="rarity">Artifact</set>
 			<set name="weapon">ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE</set>
+			<set name="enhancement">2</set>
 			<set name="name-format">Justicar's Warblade</set>
 		</setters>
 	</element>
