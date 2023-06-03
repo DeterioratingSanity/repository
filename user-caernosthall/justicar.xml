@@ -2,14 +2,20 @@
 <elements>
 	<info>
 		<name>File 1</name>
-		<update version="1.0.1">
+		<update version="1.0.2">
 			<file name="justicar.xml" url="https://raw.githubusercontent.com/deterioratingsanity/repository/master/user-caernosthall/justicar.xml" />
 		</update>
 	</info>
   
   <element name="Justicar's Warblade" type="Magic Item" source="Custom" id="ID_WARBLADE">
 		<description>
-			<p>This warblade is a system test. If you have it in your hands, the world got a booboo.</p>
+			<p>You gain a +2 bonus to attack and damage rolls made with this magic weapon. </p>
+				
+			<p>This weapon is uniquely powerful against the enemies of Severan Knights. Foes who are typically resistant 
+			to slashing damage take full damage from attacks made with this weapon, and foes who are typically immune 
+			to slashing damage take half damage</p>
+				
+			<p>This ancient longsword is the badge of office for the First Justicar of the Severan Knights</p>
 		</description>
 		<setters>
 			<set name="keywords">sword</set>
