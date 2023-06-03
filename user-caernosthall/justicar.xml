@@ -1,1 +1,26 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>File 1</name>
+		<update version="1.0.0">
+			<file name="justicar.xml" url="https://raw.githubusercontent.com/deterioratingsanity/repository/master/user-caernosthall/justicar.xml" />
+		</update>
+	</info>
+  
+  <element name="Justicar's Warblade" type="Magic Item" source="Custom" id="ID_WARBLADE">
+		<description>
+			<p>This warblade is a system test. If you have it in your hands, the world got a booboo.</p>
+		</description>
+		<setters>
+			<set name="keywords">sword</set>
+			<set name="category">Magic Weapons</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="type" addition="longsword">Weapon</set>
+			<set name="rarity">Artifact</set>
+			<set name="weapon">ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE</set>
+			<set name="name-format">Justicar's Warblade</set>
+		</setters>
+	</element>
+  
+	</element>
+</elements>
