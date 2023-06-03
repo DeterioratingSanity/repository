@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>File 1</name>
-		<update version="1.0.0">
+		<update version="1.0.1">
 			<file name="justicar.xml" url="https://raw.githubusercontent.com/deterioratingsanity/repository/master/user-caernosthall/justicar.xml" />
 		</update>
 	</info>
